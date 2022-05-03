@@ -6,3 +6,7 @@ study for recommendation system
 
 2. CF RecoSys
   - basic CF
+  - user based 
+    - knn
+    - knn with significane
+  - item based
