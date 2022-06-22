@@ -10,3 +10,7 @@ study for recommendation system
     - knn
     - knn with significane
   - item based
+
+3. MF RecoSys
+  - basic
+  - using SGD
